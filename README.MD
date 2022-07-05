@@ -1,7 +1,7 @@
-<h1 align="center"><img width="100" src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/Hello.gif" alt="hello">, I'm Sudheer</h1>
+<h1 align="center"><img width="80" src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/Hello.gif" alt="hello">, I'm Sudheer Babu</h1>
 <h3 align="center"> A passionate frontend developer from Hyderabad, India.</h3>
   
- <img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="devcoder"/>
+ <img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="devcoder"/> <br>
 
 
 
@@ -22,8 +22,7 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isudheerbabu&show_icons=true&locale=en&layout=compact" alt="isudheerbabu" /></p>
 <br>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=isudheerbabu&show_icons=true&locale=en" alt="isudheerbabu" /></p>
- 
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isudheerbabu&" alt="isudheerbabu" /></p>
 
@@ -43,6 +42,6 @@
 <p align="left"> <a href="https://twitter.com/isudheerbabu" target="blank"><img src="https://img.shields.io/twitter/follow/isudheerbabu?logo=twitter&style=for-the-badge" alt="isudheerbabu" /></a> </p>
 
 <h3 align="right">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/isudheerbabu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="isudheerbabu" /></a></p>
+<p><a href="https://www.buymeacoffee.com/isudheerbabu"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="isudheerbabu" /></a></p>
   <br>
 
