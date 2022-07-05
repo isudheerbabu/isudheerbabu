@@ -20,10 +20,10 @@
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isudheerbabu&show_icons=true&locale=en&layout=compact" alt="isudheerbabu" /></p>
 
-<br> <br> <br> <br> 
+
 <p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=isudheerbabu&" alt="isudheerbabu" /></p>
 
-<br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br> <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/isudheerbabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="isudheerbabu" height="30" width="40" /></a>
