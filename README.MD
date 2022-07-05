@@ -1,6 +1,5 @@
 <h1 align="center"><img width="100" src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/Hello.gif" alt="hello">, Fellow < Developers/ >!</h1>
-  <h2 align="center"> I'm Sudheer Babu </h2>
-<h3 align="center">A passionate frontend developer from Hyderabad, India.</h3>
+<h3 align="center">I'm Sudheer Babu <br> A passionate frontend developer from Hyderabad, India.</h3>
   
  <img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="devcoder"/>
 
@@ -21,6 +20,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/isudheerbabu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="isudheerbabu" /></a></p>
+  <br>
   <br>
   <br>
   
