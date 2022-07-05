@@ -24,7 +24,7 @@
 <br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isudheerbabu&" alt="isudheerbabu" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=isudheerbabu&" alt="isudheerbabu" /></p> <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,7 +43,7 @@
 
 <p align="left"> <a href="https://twitter.com/isudheerbabu" target="blank"><img src="https://img.shields.io/twitter/follow/isudheerbabu?logo=twitter&style=for-the-badge" alt="isudheerbabu" /></a> </p>
 
-<h3 align="center">Support:</h3>
+<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/isudheerbabu"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="isudheerbabu" /></a></p>
   <br>
 
